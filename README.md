@@ -10,8 +10,9 @@ EchoTic berfokus pada bagaimana sebuah platform ticketing dapat memberikan penga
 
 ---
 
-# 🌐 Live Demo : [echotic-platfrom](https://echotic-platform.vercel.app/)
+# 🌐 Live Demo 
 
+# 🚀: [echotic-platfrom](https://echotic-platform.vercel.app/)
 ```
 
 
