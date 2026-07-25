@@ -12,8 +12,7 @@ EchoTic berfokus pada pengalaman pengguna mulai dari menemukan event konser, mem
 
 # 🌐 Live Demo
 
-🚀 **Website Preview:**  
-[EchoTic Platform](https://echotic-platform.vercel.app/)
+🚀 **Website Preview:**  [EchoTic Platform](https://echotic-platform.vercel.app/)
 
 ---
 
