@@ -12,15 +12,12 @@ EchoTic berfokus pada bagaimana sebuah platform ticketing dapat memberikan penga
 
 # 🌐 Live Demo
 
-🚀 Website Preview:
+🚀:[echotic-platfrom](https://echotic-platform.vercel.app/)
 
 ```
-https://echotic.vercel.app
+
+
 ```
-
-_(Demo URL akan diperbarui setelah deployment final)_
-
----
 
 # 👥 Project Collaborators
 
