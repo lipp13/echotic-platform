@@ -4,26 +4,19 @@
 
 EchoTic adalah platform pemesanan tiket konser musik modern dengan konsep **premium concert experience** yang menggabungkan estetika **"Concert Night / Neon Stage Light"** dan **"Festival Poster Art"**.
 
-Project ini dirancang agar tidak terlihat seperti template website biasa, tetapi menghadirkan pengalaman digital yang menyerupai atmosfer konser asli melalui visual neon, layout editorial, animasi interaktif, dan sistem pemesanan tiket yang immersive.
+Project ini dirancang untuk menghadirkan pengalaman digital yang menyerupai atmosfer konser asli melalui visual neon, layout editorial, animasi interaktif, dan sistem pemesanan tiket yang immersive.
 
-EchoTic berfokus pada bagaimana sebuah platform ticketing dapat memberikan pengalaman pengguna mulai dari menemukan event, memilih tiket, melakukan checkout, hingga mendapatkan e-ticket digital.
+EchoTic berfokus pada pengalaman pengguna mulai dari menemukan event konser, memilih kategori tiket, melakukan checkout, hingga mendapatkan **digital e-ticket**.
 
 ---
 
-
 # 🌐 Live Demo
 
-<p align="center">
-  <a href="https://echotic-platform.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-ccff00?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-</p>
+🚀 **Website Preview:**  
+[EchoTic Platform](https://echotic-platform.vercel.app/)
 
+---
 
-```
-
-
-```
 # 👥 Project Collaborators
 
 Project ini dikembangkan secara kolaboratif oleh:
@@ -62,31 +55,36 @@ Backend Developer
 
 # 🎨 Design Concept & Visual Identity
 
-EchoTic menggunakan pendekatan desain:
+EchoTic menggunakan konsep visual:
 
-### 🌑 Dark Neon Atmosphere
+## 🌑 Dark Neon Atmosphere
 
-Menggunakan kombinasi:
+Color palette:
 
 - Background Black `#07070a`
 - Acid Green `#ccff00`
 - Hot Pink `#ff0055`
 - Cyber Cyan `#00f0ff`
 
-untuk menciptakan nuansa konser malam, stage lighting, dan festival modern.
+Konsep ini terinspirasi dari suasana konser malam, festival musik, dan stage lighting modern.
 
-### 📰 Festival Poster Art Direction
+---
 
-Inspirasi desain berasal dari:
+## 📰 Festival Poster Art Direction
 
-- Poster konser underground
-- Festival music branding
+Inspirasi desain:
+
+- Concert poster design
+- Music festival branding
 - Editorial magazine layout
 - Industrial typography
+- Modern nightlife aesthetic
 
-### ✨ Visual Experience
+---
 
-Implementasi visual meliputi:
+## ✨ Visual Experience
+
+Implementasi visual:
 
 - Large typography headline
 - Asymmetric grid layout
@@ -100,25 +98,25 @@ Implementasi visual meliputi:
 
 # ⚡ Main Features
 
-## 1. 🏠 Landing Page
+## 🏠 1. Landing Page
 
-Halaman utama yang memperkenalkan pengalaman EchoTic.
+Halaman utama dengan pengalaman visual konser modern.
 
 Features:
 
 - Interactive 3D hologram ticket
-- Hero section dengan neon concert atmosphere
+- Neon hero section
 - Real-time countdown event
 - Featured concert showcase
 - Genre filtering
-- Editorial "How It Works"
+- How It Works section
 - Fan testimonial section
 
 ---
 
-## 2. 🎵 Event Directory
+## 🎵 2. Event Directory
 
-Halaman katalog konser dengan sistem pencarian dan filter.
+Katalog konser dengan sistem pencarian dan filter.
 
 Features:
 
@@ -127,29 +125,29 @@ Features:
   - Event name
   - Venue
 
-- Filter berdasarkan:
+- Filter:
   - Genre
   - Location
   - Date
 
 - Sorting:
-  - Lowest price
-  - Highest price
+  - Cheapest ticket
+  - Highest ticket
   - Upcoming event
 
 - Animated event cards
 
 ---
 
-## 3. 🎤 Event Detail Page
+## 🎤 3. Event Detail Page
 
-Halaman detail konser dengan informasi lengkap.
+Informasi lengkap mengenai konser.
 
 Features:
 
 - Artist information
 - Event description
-- Venue information
+- Venue details
 - Ticket categories
 - Interactive seat selection
 - Google Maps integration
@@ -157,9 +155,9 @@ Features:
 
 ---
 
-## 4. 🎟️ Checkout Flow
+## 🎟️ 4. Checkout Flow
 
-Sistem pembelian tiket menggunakan multi-step flow.
+Alur pembelian tiket dengan sistem multi-step.
 
 Flow:
 
@@ -170,7 +168,7 @@ Payment Selection
         ↓
 Transaction Processing
         ↓
-Ticket Generated
+Digital Ticket Generated
 ```
 
 Features:
@@ -183,9 +181,9 @@ Features:
 
 ---
 
-## 5. 🎫 Digital E-Ticket
+## 🎫 5. Digital E-Ticket
 
-Setelah transaksi berhasil user mendapatkan tiket digital.
+Sistem tiket digital setelah transaksi.
 
 Features:
 
@@ -193,22 +191,22 @@ Features:
 - Unique ticket ID
 - QR Code generator
 - Barcode simulation
-- Download ticket button
+- Download ticket
 - Share ticket
 
 ---
 
-## 6. 👤 User Dashboard
+## 👤 6. User Dashboard
 
-Dashboard pengguna untuk mengelola tiket.
+Dashboard pengguna untuk mengelola tiket konser.
 
 Features:
 
 - User profile
 - Active tickets
 - Previous concerts
-- Membership badge
 - Ticket history
+- Membership badge
 
 ---
 
@@ -216,24 +214,26 @@ Features:
 
 ## Frontend
 
-| Technology        | Usage                        |
-| ----------------- | ---------------------------- |
-| Next.js 16        | React Framework (App Router) |
-| JavaScript JSX    | Main Programming Language    |
-| Tailwind CSS v4   | Styling System               |
-| Framer Motion     | Animation & Interaction      |
-| React Three Fiber | 3D Web Experience            |
-| Drei              | Three.js Helper Library      |
-| Lucide React      | Icon System                  |
+| Technology | Usage |
+|------------|-------|
+| Next.js 16 | React Framework (App Router) |
+| JavaScript JSX | Main Language |
+| Tailwind CSS v4 | Styling System |
+| Framer Motion | Animation & Interaction |
+| React Three Fiber | 3D Experience |
+| Drei | Three.js Helper |
+| Lucide React | Icon Library |
+
+---
 
 ## Development Tools
 
-| Tool   | Usage                 |
-| ------ | --------------------- |
-| Git    | Version Control       |
+| Tool | Usage |
+|------|-------|
+| Git | Version Control |
 | GitHub | Repository Management |
-| npm    | Package Management    |
-| Vercel | Deployment Platform   |
+| npm | Package Manager |
+| Vercel | Deployment |
 
 ---
 
@@ -265,6 +265,7 @@ Features:
  └─ dashboard/
      └─ page.js
 
+
 /components
 
  ├─ ui/
@@ -279,15 +280,17 @@ Features:
  │  └─ Decor3D.jsx
  │
  └─ sections/
-
+    
     ├─ Navbar.jsx
     ├─ Footer.jsx
     ├─ Hero3D.jsx
     └─ SeatMap.jsx
 
+
 /data
 
  └─ mockData.js
+
 
 /lib
 
@@ -298,7 +301,7 @@ Features:
 
 # 🗄️ Database Preparation
 
-Walaupun versi sekarang menggunakan mock data, struktur database telah dipersiapkan untuk pengembangan full-stack.
+Saat ini EchoTic menggunakan **mock data**, namun struktur database telah disiapkan untuk pengembangan full-stack.
 
 Database:
 
@@ -306,11 +309,13 @@ Database:
 echotic_db
 ```
 
-Planned tables:
+---
+
+## Database Tables
 
 ### users
 
-Menyimpan data akun pengguna.
+Menyimpan data pengguna.
 
 ```
 id
@@ -321,21 +326,25 @@ role
 created_at
 ```
 
+---
+
 ### venues
 
-Data lokasi konser.
+Menyimpan informasi venue konser.
 
 ```
 id
 name
 address
-capacity
 city
+capacity
 ```
+
+---
 
 ### events
 
-Informasi event konser.
+Menyimpan data konser.
 
 ```
 id
@@ -347,9 +356,11 @@ venue_id
 description
 ```
 
+---
+
 ### ticket_categories
 
-Kategori tiket.
+Kategori tiket konser.
 
 ```
 id
@@ -360,9 +371,11 @@ capacity
 sold
 ```
 
+---
+
 ### orders
 
-Data transaksi pembelian.
+Data transaksi tiket.
 
 ```
 id
@@ -371,6 +384,8 @@ ticket_id
 order_code
 payment_status
 ```
+
+---
 
 ### seats
 
@@ -392,13 +407,13 @@ status
 Clone repository:
 
 ```bash
-git clone https://github.com/lipp13/echotic.git
+git clone https://github.com/lipp13/echotic-platform.git
 ```
 
-Masuk ke folder project:
+Masuk folder project:
 
 ```bash
-cd echotic
+cd echotic-platform
 ```
 
 Install dependencies:
@@ -413,7 +428,7 @@ Run development server:
 npm run dev
 ```
 
-Open browser:
+Open:
 
 ```
 http://localhost:3000
@@ -423,15 +438,16 @@ http://localhost:3000
 
 # 📌 Development Notes
 
-EchoTic saat ini merupakan frontend prototype dengan sistem simulasi:
+EchoTic saat ini merupakan frontend prototype dengan simulasi:
 
-- Event database
+- Concert event database
 - Ticket purchasing
-- Payment process
+- Payment flow
 - User dashboard
 - Digital ticket generation
 
-Architecture sudah disiapkan agar dapat dikembangkan menjadi:
+
+Project ini dapat dikembangkan menjadi:
 
 - Full-stack ticketing platform
 - Real payment integration
@@ -443,30 +459,44 @@ Architecture sudah disiapkan agar dapat dikembangkan menjadi:
 
 # 🔮 Future Development
 
-Planned improvements:
+## Backend Integration
 
-### Backend Integration
+Planned:
 
-- Node.js / Express API
+- Node.js API
+- Express backend
 - MySQL database
 - Authentication system
 
-### Payment Integration
+---
+
+## Payment Integration
+
+Planned:
 
 - Midtrans
 - QRIS Payment
 - Virtual Account
 
-### Admin Dashboard
+---
+
+## Admin Dashboard
+
+Planned:
 
 - Create event
-- Manage tickets
-- Monitor transactions
+- Manage ticket
+- Manage transaction
+- Sales analytics
 
-### Real-time Features
+---
 
-- Seat locking
-- Ticket availability updates
+## Real-time Features
+
+Planned:
+
+- Seat locking system
+- Live ticket availability
 - Notification system
 
 ---
@@ -481,7 +511,6 @@ Project ini dibuat untuk eksplorasi:
 - Ticket Booking System
 - Frontend Engineering
 
-Contribution dan improvement dapat dilakukan melalui repository collaborator.
 
 ---
 
