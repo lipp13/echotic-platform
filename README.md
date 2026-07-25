@@ -10,14 +10,20 @@ EchoTic berfokus pada bagaimana sebuah platform ticketing dapat memberikan penga
 
 ---
 
-# 🌐 Live Demo 
 
-# 🚀: [echotic-platfrom](https://echotic-platform.vercel.app/)
+# 🌐 Live Demo
+
+<p align="center">
+  <a href="https://echotic-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-ccff00?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+
 ```
 
 
 ```
-
 # 👥 Project Collaborators
 
 Project ini dikembangkan secara kolaboratif oleh:
